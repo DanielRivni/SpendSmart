@@ -1,7 +1,7 @@
-Expense Tracker Web Application
+SpendSmart Web Application
 ===============================
 
-This project is an Expense Tracker web application developed using ASP.NET 8 MVC and C#. It allows users to manage their personal finances by tracking income and expenses, categorizing transactions, and viewing summaries.
+This project is an SpendSmart web application developed using ASP.NET 8 MVC and C#. It allows users to manage their personal finances by tracking income and expenses, categorizing transactions, and viewing summaries.
 
 Features
 --------
